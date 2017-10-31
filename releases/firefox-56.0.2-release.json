@@ -22,7 +22,7 @@
       "id": 787304,
       "is_public": true,
       "modified": "2017-10-26T15:18:30.877690+00:00",
-      "note": "Disable Form Autofill completely on user request ([Bug 1404531][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1404531",
+      "note": "This is a test. Let's see if it updates on the demo.",
       "sort_num": 0,
       "tag": "Fixed"
     },
